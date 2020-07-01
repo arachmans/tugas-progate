@@ -1,0 +1,14 @@
+@media(max-width: 1000px) {
+
+    /* navigasi */
+    .nav-item {
+        width: 48%;
+    }
+}
+
+@media(max-width: 670px) {
+    /* navigasi */
+    .nav-item {
+        width: 95%;
+    }
+}
