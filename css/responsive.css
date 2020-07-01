@@ -1,14 +1,25 @@
 @media(max-width: 1000px) {
+    /* Header */
 
-    /* navigasi */
+    /* Navigasi */
     .nav-item {
         width: 48%;
     }
+    /* Utama */
+    
+    /* Footer */
+    
 }
 
 @media(max-width: 670px) {
+    /* Header */
+    
     /* navigasi */
     .nav-item {
         width: 95%;
     }
+    /* Utama */
+    
+    /* Footer */
+    
 }
