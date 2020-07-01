@@ -2,6 +2,9 @@
     /* Header */
 
     /* Navigasi */
+    nav {
+        padding: 50px;
+    }
     .nav-item {
         width: 48%;
     }
@@ -15,6 +18,9 @@
     /* Header */
     
     /* navigasi */
+    nav {
+        padding: 30px;
+    }
     .nav-item {
         width: 95%;
     }
