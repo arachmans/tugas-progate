@@ -14,11 +14,12 @@ footer{
 	background-color: #1abc9c;
 	height: 250px;
 	color:#34495e;
+	width:24%;
 }
 footer img{
 	width: 400px;
 	height: 150px;
-	padding-right: 150px;
+	
 }
 .foot li{
 	list-style: none;
@@ -37,10 +38,4 @@ footer img{
 }
 .btn:hover{
 	opacity: 1;
-}
-.des{
-	padding-right:250px;
-}
-.hub{
-	padding-right:250px;
 }
