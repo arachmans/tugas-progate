@@ -8,18 +8,19 @@ h1, h2, h3, h4, h5, h6, p, div {
 	
 	float:left;
 	
+	
 }
 footer{
 	padding: 30px;
 	background-color: black;
 	height: 250px;
 	color:white;
-	
+
 }
 footer img{
-	width: 400px;
-	height: 150px;
-	padding-right:200px;
+	height: 120px;
+	width:360px;
+	padding-right: 120px;
 }
 .foot li{
 	list-style: none;
@@ -38,4 +39,10 @@ footer img{
 }
 .btn:hover{
 	opacity: 1;
+}
+.des{
+	padding-right: 220px;
+}
+.hub{
+	padding-right: 220px;
 }
