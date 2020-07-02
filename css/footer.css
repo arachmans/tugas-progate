@@ -19,7 +19,7 @@ footer{
 footer img{
 	width: 400px;
 	height: 150px;
-	
+	padding-right:200px;
 }
 .foot li{
 	list-style: none;
