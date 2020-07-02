@@ -1,0 +1,46 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p, div {
+  margin: 0;
+  padding: 0;
+}
+.foot{
+	
+	float:left;
+	
+}
+footer{
+	padding: 30px;
+	background-color: #1abc9c;
+	height: 250px;
+	color:#34495e;
+}
+footer img{
+	width: 300px;
+	height: 120px;
+	padding-right: 120px;
+}
+.foot li{
+	list-style: none;
+	font-family: Arial;
+	padding-top: 10px;
+}
+.foot p{
+	font-family: Brush Script MT;
+	font-size: 30px;
+}
+.btn{
+	padding:5px 5px;
+	color: #34495e;
+	opacity: 0.8;
+	border-radius: 2px;
+}
+.btn:hover{
+	opacity: 1;
+}
+.des{
+	padding-right:220px;
+}
+.hub{
+	padding-right:220px;
+}
