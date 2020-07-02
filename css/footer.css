@@ -16,9 +16,9 @@ footer{
 	color:#34495e;
 }
 footer img{
-	width: 300px;
-	height: 120px;
-	padding-right: 120px;
+	width: 400px;
+	height: 150px;
+	padding-right: 150px;
 }
 .foot li{
 	list-style: none;
@@ -39,8 +39,8 @@ footer img{
 	opacity: 1;
 }
 .des{
-	padding-right:220px;
+	padding-right:250px;
 }
 .hub{
-	padding-right:220px;
+	padding-right:250px;
 }
