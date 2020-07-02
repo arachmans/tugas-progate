@@ -11,10 +11,10 @@ h1, h2, h3, h4, h5, h6, p, div {
 }
 footer{
 	padding: 30px;
-	background-color: #1abc9c;
+	background-color: black;
 	height: 250px;
-	color:#34495e;
-	width:24%;
+	color:white;
+	
 }
 footer img{
 	width: 400px;
@@ -32,7 +32,7 @@ footer img{
 }
 .btn{
 	padding:5px 5px;
-	color: #34495e;
+	color: white;
 	opacity: 0.8;
 	border-radius: 2px;
 }
