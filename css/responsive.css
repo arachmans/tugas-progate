@@ -1,6 +1,8 @@
 @media(max-width: 1000px) {
     /* Header */
-
+    .background h1 {
+        font-size: 60px;
+    }
     /* Navigasi */
     nav {
         padding: 50px;
@@ -16,7 +18,22 @@
 
 @media(max-width: 670px) {
     /* Header */
-    
+    background h1 {
+        font-size: 40px;
+        margin-top: 10px;
+    }
+    .top-wrapper {
+        background-size: cover;
+        height: 10px;
+        padding-top: 50px;
+
+    }
+    .header-right {
+        display: none;
+    }
+    .menu-icon {
+        display: block;
+    }
     /* navigasi */
     nav {
         padding: 30px;
