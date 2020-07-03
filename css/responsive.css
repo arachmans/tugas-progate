@@ -25,13 +25,15 @@
         background-size: cover;
         height: 10px;
         padding-top: 50px;
-
     }
     .header-right {
         display: none;
     }
     .menu-icon {
         display: block;
+    }
+    form {
+        display: none;
     }
     /* navigasi */
     nav {
@@ -43,12 +45,11 @@
     /* Utama */
     
     /* Footer */
-  footer{
-      height:600px;
-      width:100%;
+    footer {
+        height:600px;
+        width:100%;
     }
-
-
+}
 
 
 
