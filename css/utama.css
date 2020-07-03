@@ -71,6 +71,10 @@
     background-image: linear-gradient(to top, rgba(245, 246, 252, 0), rgba(0, 71, 119, 0.73)), url(../img/alam.jpg);
 }
 
+.keraton {
+    background-image: linear-gradient(to top, rgba(245, 246, 252, 0), rgba(0, 71, 119, 0.73)), url(../img/keraton.jpg);
+}
+
 /*clear-left*/
 
 .clear-left {
