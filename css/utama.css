@@ -2,7 +2,6 @@
 
 .main-wrapper {
     background-color: white;
-    border-top: solid 3px black;
     padding: 25px 50px;
     text-align: center;
 }
@@ -33,7 +32,7 @@
 
 .card h3 {
     transition-duration: 0.5s;
-    margin-bottom: -10px;
+    margin-bottom: -5px;
     margin-top: 8px;
     color: white;
 }
@@ -57,19 +56,19 @@
 /*Card Background*/
 
 .budaya {
-    background-image: linear-gradient(to top, rgba(245, 246, 252, 0), rgba(0, 71, 119, 0.73)), url(img/budaya.jpg);
+    background-image: linear-gradient(to top, rgba(245, 246, 252, 0), rgba(0, 71, 119, 0.73)), url(../img/budaya.jpg);
 }
 
 .sejarah {
-    background-image: linear-gradient(to top, rgba(245, 246, 252, 0), rgba(0, 71, 119, 0.73)), url(img/sejarah.jpeg);
+    background-image: linear-gradient(to top, rgba(245, 246, 252, 0), rgba(0, 71, 119, 0.73)), url(../img/sejarah.jpeg);
 }
 
 .kuliner {
-    background-image: linear-gradient(to top, rgba(245, 246, 252, 0), rgba(0, 71, 119, 0.73)), url(img/kuliner.png);
+    background-image: linear-gradient(to top, rgba(245, 246, 252, 0), rgba(0, 71, 119, 0.73)), url(../img/kuliner.png);
 }
 
 .alam {
-    background-image: linear-gradient(to top, rgba(245, 246, 252, 0), rgba(0, 71, 119, 0.73)), url(img/alam.jpg);
+    background-image: linear-gradient(to top, rgba(245, 246, 252, 0), rgba(0, 71, 119, 0.73)), url(../img/alam.jpg);
 }
 
 /*clear-left*/
