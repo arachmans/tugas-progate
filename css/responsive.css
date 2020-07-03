@@ -65,6 +65,10 @@
     .foot li{
         font-size:7px;
     }
+    footer img {
+	width: 90%;
+    }
+}
 
 
 
