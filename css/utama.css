@@ -56,11 +56,11 @@
 /*Card Background*/
 
 .budaya {
-    background-image: linear-gradient(to top, rgba(245, 246, 252, 0), rgba(0, 71, 119, 0.73)), url(../img/budaya.jpg);
+    background-image: linear-gradient(to top, rgba(245, 246, 252, 0), rgba(0, 71, 119, 0.73)), url(../img/prambanan.jpg);
 }
 
 .sejarah {
-    background-image: linear-gradient(to top, rgba(245, 246, 252, 0), rgba(0, 71, 119, 0.73)), url(../img/sejarah.jpeg);
+    background-image: linear-gradient(to top, rgba(245, 246, 252, 0), rgba(0, 71, 119, 0.73)), url(../img/malioboro.jpg);
 }
 
 .kuliner {
