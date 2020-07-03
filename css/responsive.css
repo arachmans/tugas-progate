@@ -14,7 +14,7 @@
     
     /* Footer */
    .foot{
-	width:25%;
+	display:block;
    }
 
 @media(max-width: 670px) {
