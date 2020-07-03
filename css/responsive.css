@@ -13,17 +13,9 @@
     /* Utama */
     
     /* Footer */
-        footer img{
-	    height: 120px;
-	    width:360px;
-	    padding-right: 20px;
-    }
-    .des{
-	    padding-right: 120px;
-    }
-    .hub{
-	    padding-right: 120px;
-    }
+   .foot{
+	width:25%;
+   }
 
 @media(max-width: 670px) {
     /* Header */
