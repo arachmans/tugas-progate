@@ -58,6 +58,14 @@
     }
     .foot li{
         font-size:10px;
+    }
+    .des{
+        margin-bottom:10px;
+    }
+    .hub{
+        margin-bottom:10px;
+    }
+    .sosmed{
         margin-bottom:10px;
     }
 }
