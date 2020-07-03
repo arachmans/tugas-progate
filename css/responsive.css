@@ -14,7 +14,6 @@
     
     /* Footer */
     
-}
 
 @media(max-width: 670px) {
     /* Header */
@@ -44,5 +43,6 @@
     /* Utama */
     
     /* Footer */
-    
+    footer{
+        width:50%;
 }
