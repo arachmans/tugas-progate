@@ -43,6 +43,11 @@
     /* Utama */
     
     /* Footer */
-    footer{
-        height:auto;
-}
+   footer{
+	display:block;
+    }
+
+
+
+
+
