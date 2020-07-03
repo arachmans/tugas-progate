@@ -1,1 +1,81 @@
+/*Start*/
 
+.main-wrapper {
+    background-color: white;
+    border-top: solid 3px black;
+    padding: 25px 50px;
+    text-align: center;
+}
+
+.cards {
+    display: inline-block;
+}
+
+.card {
+    width: 200px;
+    height: 250px;
+    background-color: aquamarine;
+    float: left;
+    border-radius: 15px;
+    margin: 0px 15px;
+    padding: 5px;
+    transition-duration: 0.5s;
+    background-size: cover;
+    cursor: pointer;
+}
+
+/*Card Details & Animation*/
+
+.card:hover {
+    transition-duration: 0.5s;
+    width: 300px;
+}
+
+.card h3 {
+    transition-duration: 0.5s;
+    margin-bottom: -10px;
+    margin-top: 8px;
+    color: white;
+}
+
+.card:hover h3 {
+    transition-duration: 0.5s;
+    font-size: 23px;
+}
+
+.card p {
+    transition-duration: 0.5s;
+    opacity: 0;
+    color: white;
+}
+
+.card:hover p {
+    transition-duration: 2s;
+    opacity: 1;
+}
+
+/*Card Background*/
+
+.budaya {
+    background-image: linear-gradient(to top, rgba(245, 246, 252, 0), rgba(0, 71, 119, 0.73)), url(/assets/budaya.jpg);
+}
+
+.sejarah {
+    background-image: linear-gradient(to top, rgba(245, 246, 252, 0), rgba(0, 71, 119, 0.73)), url(/assets/sejarah.jpeg);
+}
+
+.kuliner {
+    background-image: linear-gradient(to top, rgba(245, 246, 252, 0), rgba(0, 71, 119, 0.73)), url(/assets/kuliner.png);
+}
+
+.alam {
+    background-image: linear-gradient(to top, rgba(245, 246, 252, 0), rgba(0, 71, 119, 0.73)), url(/assets/alam.jpg);
+}
+
+/*clear-left*/
+
+.clear-left {
+    clear: left;
+}
+
+/*End*/
