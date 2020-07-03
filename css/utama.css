@@ -57,19 +57,19 @@
 /*Card Background*/
 
 .budaya {
-    background-image: linear-gradient(to top, rgba(245, 246, 252, 0), rgba(0, 71, 119, 0.73)), url(/img/budaya.jpg);
+    background-image: linear-gradient(to top, rgba(245, 246, 252, 0), rgba(0, 71, 119, 0.73)), url(/tugas-progate/img/budaya.jpg);
 }
 
 .sejarah {
-    background-image: linear-gradient(to top, rgba(245, 246, 252, 0), rgba(0, 71, 119, 0.73)), url(/img/sejarah.jpeg);
+    background-image: linear-gradient(to top, rgba(245, 246, 252, 0), rgba(0, 71, 119, 0.73)), url(/tugas-progate/img/sejarah.jpeg);
 }
 
 .kuliner {
-    background-image: linear-gradient(to top, rgba(245, 246, 252, 0), rgba(0, 71, 119, 0.73)), url(/img/kuliner.png);
+    background-image: linear-gradient(to top, rgba(245, 246, 252, 0), rgba(0, 71, 119, 0.73)), url(/tugas-progate/img/kuliner.png);
 }
 
 .alam {
-    background-image: linear-gradient(to top, rgba(245, 246, 252, 0), rgba(0, 71, 119, 0.73)), url(/img/alam.jpg);
+    background-image: linear-gradient(to top, rgba(245, 246, 252, 0), rgba(0, 71, 119, 0.73)), url(/tugas-progate/img/alam.jpg);
 }
 
 /*clear-left*/
