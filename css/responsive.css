@@ -13,8 +13,16 @@
     /* Utama */
     
     /* Footer */
-   .foot{
-	display:block;
+   footer img{
+	height: 120px;
+	width:360px;
+	padding-right: 5px;
+   }
+   .des{
+	padding-right: 20px;
+   }
+   .hub{
+	padding-right: 20px;
    }
 
 @media(max-width: 670px) {
@@ -50,10 +58,6 @@
     footer {
         height:600px;
         width:100%;
-    }
-    .foot p{
-        font-family:20px;
-        margin-bottom:15px;
     }
     .foot h3{
         font-size: 10px;
