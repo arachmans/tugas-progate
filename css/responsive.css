@@ -49,6 +49,17 @@
         height:600px;
         width:100%;
     }
+    .foot p{
+        font-family:20px;
+        margin-bottom:15px;
+    }
+    .foot h3{
+        font-size: 15px;
+    }
+    .foot li{
+        font-size:10px;
+        margin-bottom:10px;
+    }
 }
 
 
