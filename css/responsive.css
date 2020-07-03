@@ -13,7 +13,17 @@
     /* Utama */
     
     /* Footer */
-    
+        footer img{
+	    height: 120px;
+	    width:360px;
+	    padding-right: 20px;
+    }
+    .des{
+	    padding-right: 120px;
+    }
+    .hub{
+	    padding-right: 120px;
+    }
 
 @media(max-width: 670px) {
     /* Header */
@@ -54,19 +64,10 @@
         margin-bottom:15px;
     }
     .foot h3{
-        font-size: 15px;
+        font-size: 10px;
     }
     .foot li{
-        font-size:10px;
-    }
-    .des{
-        margin-bottom:10px;
-    }
-    .hub{
-        margin-bottom:10px;
-    }
-    .sosmed{
-        margin-bottom:10px;
+        font-size:7px;
     }
 }
 
